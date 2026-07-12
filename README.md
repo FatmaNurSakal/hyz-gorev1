@@ -49,5 +49,15 @@ pip install -r requirements.txt
 ## Terminalden Çalıştırma Komutu:
 ```powershell
 python input.py
+```
+## Çıktı
+```text
+results.json
+```
+## Terminalden Çalıştırma Komutu:
+```powershell
 python gorsel_test.py
 ```
+## Çıktı
+<img width="1920" height="1080" alt="test_000004" src="https://github.com/user-attachments/assets/6ef4c7e2-ce00-40bd-9912-a32a79bc949d" />
+
