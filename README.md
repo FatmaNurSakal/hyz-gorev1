@@ -31,12 +31,11 @@ CUDA: True
 GPU: NVIDIA GeForce RTX 3060 Laptop GPU
 ```
 
-## 3. Python interpreter kontrol et
+## 3. Python interpreter kontrol et ve seç
 ```text
 Ctrl + Shift + P
 Python: Select Interpreter
-Python 3.14.3 (pytorch) 
-.\.venv\Scripts\python.exe
+Python 3.14.3 (.venv) .\.venv\Scripts\python.exe
 ```
 
 ## 4. Proje paketlerini kur
