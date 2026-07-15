@@ -114,4 +114,47 @@ python kontrol.py
 <img width="1920" height="1080" alt="test_frame_001148" src="https://github.com/user-attachments/assets/46178d95-b21a-49bb-be57-6fd7c4d4de55" />
 <img width="1920" height="1080" alt="test_frame_001241" src="https://github.com/user-attachments/assets/dac51264-af20-498a-ae08-40a7ceabd9f1" />
 
+# Not - Tüm görevler için Örnek JSON çıktı formatı
+```text
+Görev 1: Nesne Tespiti (detected_objects)
+Görev 2: Pozisyon Tespiti / Kestirimi (detected_translations)
+Görev 3: Görüntü Eşleme / Referans Obje Tespiti (detected_undefined_objects)
+
+Şartnamede paylaşılan örnek JSON çıktı formatı şu şekildedir:
+[
+  {
+    "id": 22246,
+    "user": "http://localhost/users/4/",
+    "frame": "http://localhost/frames/4000/",
+    "detected_objects": [
+      {
+        "cls": "http://localhost/classes/1/",
+        "landing_status": "-1",
+        "motion_status": "-1",
+        "top_left_x": 262.87,
+        "top_left_y": 734.47,
+        "bottom_right_x": 405.2,
+        "bottom_right_y": 847.3
+      }
+    ],
+    "detected_translations": [
+      {
+        "translation_x": 0.02,
+        "translation_y": 0.01,
+        "translation_z": 0.03
+      }
+    ],
+    "detected_undefined_objects": [
+      {
+        "object_id": 1,
+        "top_left_x": 262.87,
+        "top_left_y": 734.47,
+        "bottom_right_x": 405.2,
+        "bottom_right_y": 847.3
+      }
+    ]
+  }
+]
+```
+
 
