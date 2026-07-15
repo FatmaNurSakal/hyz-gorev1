@@ -47,7 +47,7 @@ pip install -r requirements.txt
 # Gorev 1 - hyz1
 ## Terminalden Çalıştırma Komutu:
 ```powershell
-python input.py
+python main.py
 ```
 ## Çıktı
 ```text
@@ -55,8 +55,9 @@ results.json
 ```
 ## Terminalden Çalıştırma Komutu:
 ```powershell
-python gorsel_test.py
+python kontrol.py
 ```
 ## Çıktı
-<img width="1920" height="1080" alt="test_000004" src="https://github.com/user-attachments/assets/6ef4c7e2-ce00-40bd-9912-a32a79bc949d" />
+<img width="1920" height="1080" alt="test_frame_000022" src="https://github.com/user-attachments/assets/d4b7c5c0-0fbc-417e-96ec-89e11cc9d620" />
+
 
