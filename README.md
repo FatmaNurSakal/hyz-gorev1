@@ -49,9 +49,60 @@ pip install -r requirements.txt
 ```powershell
 python main.py
 ```
-## Çıktı
+## results.json
 ```text
-results.json
+{
+    "frame_1": {
+        "detected_objects": [
+            {
+                "cls": "http://localhost/classes/0/",
+                "landing_status": "-1",
+                "motion_status": "0",
+                "top_left_x": 1128.161376953125,
+                "top_left_y": 839.4052734375,
+                "bottom_right_x": 1204.84033203125,
+                "bottom_right_y": 980.6632690429688
+            },
+            {
+                "cls": "http://localhost/classes/0/",
+                "landing_status": "-1",
+                "motion_status": "0",
+                "top_left_x": 1124.207763671875,
+                "top_left_y": 213.76455688476562,
+                "bottom_right_x": 1224.097412109375,
+                "bottom_right_y": 582.9495849609375
+            },
+            {
+                "cls": "http://localhost/classes/0/",
+                "landing_status": "-1",
+                "motion_status": "0",
+                "top_left_x": 978.47705078125,
+                "top_left_y": 766.6078491210938,
+                "bottom_right_x": 1075.1190185546875,
+                "bottom_right_y": 984.9823608398438
+            },
+            {
+                "cls": "http://localhost/classes/0/",
+                "landing_status": "-1",
+                "motion_status": "0",
+                "top_left_x": 1017.3572387695312,
+                "top_left_y": 0.0,
+                "bottom_right_x": 1095.1878662109375,
+                "bottom_right_y": 140.82260131835938
+            },
+            {
+                "cls": "http://localhost/classes/1/",
+                "landing_status": "-1",
+                "motion_status": "-1",
+                "top_left_x": 208.99749755859375,
+                "top_left_y": 336.7648620605469,
+                "bottom_right_x": 238.78591918945312,
+                "bottom_right_y": 363.656982421875
+            }
+        ]
+    },
+    "frame_2"...
+}
 ```
 # Gorev 1 - hyz - Kontrol (İsteğe bağlı)
 ## Terminalden Çalıştırma Komutu:
