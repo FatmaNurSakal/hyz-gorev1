@@ -59,5 +59,6 @@ python kontrol.py
 ```
 ## Çıktı
 <img width="1920" height="1080" alt="test_frame_000022" src="https://github.com/user-attachments/assets/d4b7c5c0-0fbc-417e-96ec-89e11cc9d620" />
-
+<img width="1920" height="1080" alt="test_frame_001223" src="https://github.com/user-attachments/assets/da11711d-5a44-4887-bf7a-a45eba2aaa3b" />
+<img width="1920" height="1080" alt="test_frame_001243" src="https://github.com/user-attachments/assets/b2f321cf-5826-4e80-8686-43a403ae8830" />
 
